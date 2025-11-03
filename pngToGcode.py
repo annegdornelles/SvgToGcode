@@ -1,4 +1,3 @@
-
 import os
 import sys
 import re
@@ -44,7 +43,6 @@ class GCodeConverter:
             raise
 
     def preprocess_image(self, input_png):
-
         try:
             info_print(f"[preprocess] abrindo: {input_png}")
             img = Image.open(input_png).convert("L")  # escala de cinza
@@ -59,6 +57,7 @@ class GCodeConverter:
                 img = img.resize((new_w, new_h), Image.LANCZOS)
                 info_print(f"[preprocess] redimensionado para: {new_w}x{new_h}")
 
+            # threshold fixo, mas permite ajuste futuro
             threshold = 128
             img = img.point(lambda p: 255 if p > threshold else 0)
 
@@ -75,12 +74,13 @@ class GCodeConverter:
         try:
             with open(svg_path, 'r+', encoding='utf-8') as f:
                 content = f.read()
+                # Ajuste regex para não remover espaços essenciais entre comandos SVG
                 optimizations = [
                     (r'fill-opacity="[\d.]+"', ''),
                     (r'stroke="none"', ''),
                     (r'stroke-width="[\d.]+"', ''),
                     (r'<!--.*?-->', ''),
-                    (r'\s+', ' '),
+                    (r'\s{2,}', ' '),  # mantém espaços simples
                 ]
                 for pattern, replacement in optimizations:
                     content = re.sub(pattern, replacement, content)
@@ -95,6 +95,9 @@ class GCodeConverter:
     def process_chunk(self, chunk_data):
         curves, temp_path = chunk_data
         try:
+            if not curves:
+                info_print(f"[process_chunk] AVISO: chunk vazio {temp_path}")
+                return (True, temp_path)
             compiler = Compiler(
                 interface_class=interfaces.Gcode,
                 movement_speed=3000,
@@ -139,18 +142,16 @@ class GCodeConverter:
                 pool.close(); pool.join()
             else:
                 info_print("[parallel_conversion] processamento sequencial")
-               
                 results.append(self.process_chunk((curves, output_path)))
 
             success = all(r[0] for r in results)
             if success:
-                
                 if self.use_multiprocessing and len(curves) > 1000:
                     with open(output_path, 'w', encoding='utf-8') as outfile:
                         for ok, part in results:
                             if not os.path.exists(part):
                                 info_print("[parallel_conversion] parte ausente:", part)
-                                return False
+                                continue
                             with open(part, 'r', encoding='utf-8') as infile:
                                 outfile.write(infile.read())
                             try:
@@ -185,12 +186,10 @@ class GCodeConverter:
                 info_print("[convert] arquivo input nao existe")
                 raise FileNotFoundError(f"Arquivo não encontrado: {input_png}")
 
-            
             preprocessed = self.preprocess_image(input_png)
             if preprocessed != input_png:
                 info_print(f"[convert] usando pré-processado: {preprocessed}")
 
-           
             info_print("[convert] chamando converter.png_to_svg(...)")
             svg_content = converter.png_to_svg(preprocessed, keep_every_point=False, quality=quality, simplify=simplify)
 

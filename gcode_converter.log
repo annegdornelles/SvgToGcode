@@ -185,3 +185,6 @@ AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
 2025-10-01 13:52:24 | INFO | Inicializando GCodeConverter
 2025-10-01 13:52:24 | INFO | Dependências validadas com sucesso
 2025-10-01 13:52:24 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68dd5c473749f_pre.png
+2025-11-03 18:00:28 | INFO | Inicializando GCodeConverter
+2025-11-03 18:00:28 | INFO | Dependências validadas com sucesso
+2025-11-03 18:00:28 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\img_690917e99d7ae8.68829784_opt_pre.png
