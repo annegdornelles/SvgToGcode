@@ -8,24 +8,9 @@ from svg_to_gcode import UNITS, TOLERANCES
 
 
 class Compiler:
-    """
-    The Compiler class handles the process of drawing geometric objects using interface commands and assembling
-    the resulting numerical control code.
-    """
-
     def __init__(self, interface_class: typing.Type[Interface], movement_speed, cutting_speed, pass_depth,
                  dwell_time=0, unit=None, custom_header=None, custom_footer=None):
-        """
 
-        :param interface_class: Specify which interface to use. The most common is the gcode interface.
-        :param movement_speed: the speed at which to move the tool when moving. (units are determined by the printer)
-        :param cutting_speed: the speed at which to move the tool when cutting. (units are determined by the printer)
-        :param pass_depth: AKA, the depth your laser cuts in a pass.
-        :param dwell_time: the number of ms the tool should wait before moving to another cut. Useful for pen plotters.
-        :param unit: specify a unit to the machine
-        :param custom_header: A list of commands to be executed before all generated commands. Default is [laser_off,]
-        :param custom_footer: A list of commands to be executed after all generated commands. Default is [laser_off,]
-        """
         self.interface = interface_class()
         self.movement_speed = movement_speed
         self.cutting_speed = cutting_speed
@@ -37,45 +22,41 @@ class Compiler:
         
         self.unit = unit
 
+        # 🔄 Substituindo laser_off pelo Z5 (caneta levantada)
         if custom_header is None:
-            custom_header = [self.interface.laser_off()]
+            custom_header = ["G1 Z5 ; caneta levantada"]
 
         if custom_footer is None:
-            custom_footer = [self.interface.laser_off()]
+            custom_footer = ["G1 Z5 ; caneta levantada"]
 
-        self.header = [self.interface.set_absolute_coordinates(),
-                       self.interface.set_movement_speed(self.movement_speed)] + custom_header
+        self.header = [
+            "G90 ; coordenadas absolutas",
+            f"G1 F{self.movement_speed}"
+        ] + custom_header
+
         self.footer = custom_footer
         self.body = []
 
     def compile(self, passes=1):
-
-        """
-        Assembles the code in the header, body and footer, saving it to a file.
-
-
-        :param passes: the number of passes that should be made. Every pass the machine moves_down (z-axis) by
-        self.pass_depth and self.body is repeated.
-        :return returns the assembled code. self.header + [self.body, -self.pass_depth] * passes + self.footer
-        """
-
         if len(self.body) == 0:
             warnings.warn("Compile with an empty body (no curves). Is this intentional?")
 
         gcode = []
 
         gcode.extend(self.header)
-        gcode.append(self.interface.set_unit(self.unit))
+
+        if self.unit:
+            gcode.append(f"G21 ; unidade: {self.unit}")
+
         for i in range(passes):
             gcode.extend(self.body)
 
-            if i < passes - 1:  # If it isn't the last pass, turn off the laser and move down
-                gcode.append(self.interface.laser_off())
-
+            if i < passes - 1:
+                gcode.append("G1 Z5 ; caneta levantada")
                 if self.pass_depth > 0:
-                    gcode.append(self.interface.set_relative_coordinates())
-                    gcode.append(self.interface.linear_move(z=-self.pass_depth))
-                    gcode.append(self.interface.set_absolute_coordinates())
+                    gcode.append("G91 ; coordenadas relativas")
+                    gcode.append(f"G1 Z{-self.pass_depth:.3f} ; descendo para próxima passada")
+                    gcode.append("G90 ; coordenadas absolutas")
 
         gcode.extend(self.footer)
 
@@ -84,23 +65,10 @@ class Compiler:
         return '\n'.join(gcode)
 
     def compile_to_file(self, file_name: str, passes=1):
-        """
-        A wrapper for the self.compile method. Assembles the code in the header, body and footer, saving it to a file.
-
-        :param file_name: the path to save the file.
-        :param passes: the number of passes that should be made. Every pass the machine moves_down (z-axis) by
-        self.pass_depth and self.body is repeated.
-        """
-
         with open(file_name, 'w') as file:
             file.write(self.compile(passes=passes))
 
     def append_line_chain(self, line_chain: LineSegmentChain):
-        """
-        Draws a LineSegmentChain by calling interface.linear_move() for each segment. The resulting code is appended to
-        self.body
-        """
-
         if line_chain.chain_size() == 0:
             warnings.warn("Attempted to parse empty LineChain")
             return []
@@ -109,32 +77,27 @@ class Compiler:
 
         start = line_chain.get(0).start
 
-        # Don't dwell and turn off laser if the new start is at the current position
+        # Se o ponto de início for novo, levanta caneta, move rápido, abaixa e desenha
         if self.interface.position is None or abs(self.interface.position - start) > TOLERANCES["operation"]:
-
-            code = [self.interface.laser_off(), self.interface.set_movement_speed(self.movement_speed),
-                    self.interface.linear_move(start.x, start.y), self.interface.set_movement_speed(self.cutting_speed),
-                    self.interface.set_laser_power(1)]
+            code = [
+                "G1 Z5 ; caneta levantada",
+                f"G1 F{self.movement_speed}",
+                f"G1 X{start.x:.3f} Y{start.y:.3f}",
+                f"G1 F{self.cutting_speed}",
+                "G1 Z0 ; caneta abaixa"
+            ]
 
             if self.dwell_time > 0:
-                code = [self.interface.dwell(self.dwell_time)] + code
+                code.insert(0, f"G4 P{int(self.dwell_time)}")
 
         for line in line_chain:
-            code.append(self.interface.linear_move(line.end.x, line.end.y))
+            code.append(f"G1 X{line.end.x:.3f} Y{line.end.y:.3f}")
 
         self.body.extend(code)
 
     def append_curves(self, curves: [typing.Type[Curve]]):
-        """
-        Draws curves by approximating them as line segments and calling self.append_line_chain(). The resulting code is
-        appended to self.body
-        """
-
         for curve in curves:
             line_chain = LineSegmentChain()
-
             approximation = LineSegmentChain.line_segment_approximation(curve)
-
             line_chain.extend(approximation)
-
             self.append_line_chain(line_chain)

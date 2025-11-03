@@ -1,0 +1,187 @@
+2025-08-06 19:53:09 | INFO | Inicializando GCodeConverter
+2025-08-06 19:53:09 | INFO | Dependências validadas com sucesso
+2025-08-06 19:53:09 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\pngs\6893dcd338a0d.png
+2025-08-06 19:53:09 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 156, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-06 19:53:15 | INFO | Inicializando GCodeConverter
+2025-08-06 19:53:15 | INFO | Dependências validadas com sucesso
+2025-08-06 19:53:15 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\pngs\6893dcdae6af2.png
+2025-08-06 19:53:15 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 156, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-06 19:53:31 | INFO | Inicializando GCodeConverter
+2025-08-06 19:53:31 | INFO | Dependências validadas com sucesso
+2025-08-06 19:53:31 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\pngs\6893dceacdd98.png
+2025-08-06 19:53:31 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 156, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-10 10:07:11 | INFO | Inicializando GCodeConverter
+2025-08-10 10:07:11 | INFO | Dependências validadas com sucesso
+2025-08-10 10:07:11 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898997f125c5.png
+2025-08-10 10:07:11 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 156, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-10 10:07:17 | INFO | Inicializando GCodeConverter
+2025-08-10 10:07:17 | INFO | Dependências validadas com sucesso
+2025-08-10 10:07:17 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898998501b00.png
+2025-08-10 10:07:17 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 156, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-10 10:18:04 | INFO | Inicializando GCodeConverter
+2025-08-10 10:18:04 | INFO | Dependências validadas com sucesso
+2025-08-10 10:18:04 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\68989c0be7c5b.png
+2025-08-10 10:18:10 | INFO | SVG salvo em: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.svg (tamanho: 530904)
+2025-08-10 10:18:10 | INFO | SVG otimizado: 371.59 KB
+2025-08-10 10:18:11 | INFO | Curvas encontradas: 20006
+2025-08-10 10:18:11 | WARNING | Simplificado para 6669 curvas
+2025-08-10 10:18:11 | INFO | Usando ThreadPool com 4 workers, 5 tarefas
+2025-08-10 10:18:12 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.gcode.part0 (curvas: 1667)
+2025-08-10 10:18:12 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.gcode.part3334 (curvas: 1667)
+2025-08-10 10:18:12 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.gcode.part1667 (curvas: 1667)
+2025-08-10 10:18:12 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.gcode.part5001 (curvas: 1667)
+2025-08-10 10:18:12 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.gcode.part6668 (curvas: 1)
+2025-08-10 10:18:12 | INFO | Conversão concluída em 1.56s
+2025-08-10 10:18:12 | INFO | SVG temporário removido: C:\wamp64\www\python\SvgToGcode2\gcode\68989c0be7c5b.svg
+2025-08-10 10:18:33 | INFO | Inicializando GCodeConverter
+2025-08-10 10:18:33 | INFO | Dependências validadas com sucesso
+2025-08-10 10:18:33 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\68989c29572e6.png
+2025-08-10 10:18:51 | INFO | SVG salvo em: C:\wamp64\www\python\SvgToGcode2\gcode\68989c29572e6.svg (tamanho: 1283532)
+2025-08-10 10:18:51 | INFO | SVG otimizado: 890.25 KB
+2025-08-10 10:18:55 | INFO | Curvas encontradas: 50764
+2025-08-10 10:18:55 | WARNING | Simplificado para 7252 curvas
+2025-08-10 10:18:55 | INFO | Usando ThreadPool com 4 workers, 4 tarefas
+2025-08-10 10:18:56 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c29572e6.gcode.part0 (curvas: 1813)
+2025-08-10 10:18:56 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c29572e6.gcode.part1813 (curvas: 1813)
+2025-08-10 10:18:56 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c29572e6.gcode.part5439 (curvas: 1813)
+2025-08-10 10:18:56 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c29572e6.gcode.part3626 (curvas: 1813)
+2025-08-10 10:18:56 | INFO | Conversão concluída em 4.25s
+2025-08-10 10:18:56 | INFO | SVG temporário removido: C:\wamp64\www\python\SvgToGcode2\gcode\68989c29572e6.svg
+2025-08-10 10:20:30 | INFO | Inicializando GCodeConverter
+2025-08-10 10:20:30 | INFO | Dependências validadas com sucesso
+2025-08-10 10:20:30 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\68989c9e3870a.png
+2025-08-10 10:43:48 | INFO | Inicializando GCodeConverter
+2025-08-10 10:43:48 | INFO | Dependências validadas com sucesso
+2025-08-10 10:43:48 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898a2139a380.png
+2025-08-10 10:43:48 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 130, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-10 10:50:53 | INFO | Inicializando GCodeConverter
+2025-08-10 10:50:53 | INFO | Dependências validadas com sucesso
+2025-08-10 10:50:53 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898a3bd87988.png
+2025-08-10 10:50:53 | CRITICAL | Erro na conversão principal: 'GCodeConverter' object has no attribute 'png_to_svg'
+Traceback (most recent call last):
+  File "C:\wamp64\www\python\SvgToGcode2\pngToGcode.py", line 130, in convert
+    svg_content = converter.png_to_svg(
+                  ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GCodeConverter' object has no attribute 'png_to_svg'
+
+2025-08-10 14:22:58 | INFO | SVG salvo em: C:\wamp64\www\python\SvgToGcode2\gcode\68989c9e3870a.svg (tamanho: 4189949)
+2025-08-10 14:22:59 | INFO | SVG otimizado: 2946.96 KB
+2025-08-10 14:23:09 | INFO | Curvas encontradas: 165732
+2025-08-10 14:23:09 | WARNING | Simplificado para 7892 curvas
+2025-08-10 14:23:09 | INFO | Usando ThreadPool com 4 workers, 4 tarefas
+2025-08-10 14:23:09 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c9e3870a.gcode.part1973 (curvas: 1973)
+2025-08-10 14:23:09 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c9e3870a.gcode.part3946 (curvas: 1973)
+2025-08-10 14:23:09 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c9e3870a.gcode.part5919 (curvas: 1973)
+2025-08-10 14:23:09 | INFO | Chunk compilado: C:\wamp64\www\python\SvgToGcode2\gcode\68989c9e3870a.gcode.part0 (curvas: 1973)
+2025-08-10 14:23:09 | INFO | Conversão concluída em 10.64s
+2025-08-10 14:23:09 | INFO | SVG temporário removido: C:\wamp64\www\python\SvgToGcode2\gcode\68989c9e3870a.svg
+2025-08-10 14:41:35 | INFO | Inicializando GCodeConverter
+2025-08-10 14:41:35 | INFO | Dependências validadas com sucesso
+2025-08-10 14:41:35 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898d9cebafbb.png
+2025-08-10 14:41:41 | INFO | SVG otimizado: 371.59 KB
+2025-08-10 14:41:43 | INFO | Curvas encontradas: 20006
+2025-08-10 14:41:43 | WARNING | Simplificado para 3335 curvas
+2025-08-10 14:41:44 | INFO | Conversão concluída em 2.24s
+2025-08-10 14:41:52 | INFO | Inicializando GCodeConverter
+2025-08-10 14:41:52 | INFO | Dependências validadas com sucesso
+2025-08-10 14:41:52 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898d9e08f06e.png
+2025-08-10 14:50:37 | INFO | Inicializando GCodeConverter
+2025-08-10 14:50:37 | INFO | Dependências validadas com sucesso
+2025-08-10 14:50:37 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898dbecb6432.png
+2025-08-10 15:06:20 | INFO | Inicializando GCodeConverter
+2025-08-10 15:06:20 | INFO | Dependências validadas com sucesso
+2025-08-10 15:06:20 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898df9c13928.png
+2025-08-10 15:06:25 | INFO | SVG otimizado: 682.69 KB
+2025-08-10 15:06:28 | INFO | Curvas encontradas: 35044
+2025-08-10 15:06:28 | WARNING | Simplificado para 3894 curvas
+2025-08-10 15:06:28 | INFO | Conversão concluída em 3.38s
+2025-08-10 15:06:58 | INFO | Inicializando GCodeConverter
+2025-08-10 15:06:58 | INFO | Dependências validadas com sucesso
+2025-08-10 15:06:58 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898dfc1d89ad.png
+2025-08-10 15:12:06 | INFO | Inicializando GCodeConverter
+2025-08-10 15:12:06 | INFO | Dependências validadas com sucesso
+2025-08-10 15:12:06 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898e0f629dc0.png
+2025-08-10 15:21:25 | INFO | Inicializando GCodeConverter
+2025-08-10 15:21:25 | INFO | Dependências validadas com sucesso
+2025-08-10 15:21:25 | INFO | Iniciando conversão: C:\wamp64\www\python\SvgToGcode2\uploads\6898e325115d6.png
+2025-08-10 15:21:25 | INFO | Imagem redimensionada para (500, 233)
+2025-08-10 15:21:25 | INFO | Imagem pré-processada salva em C:\wamp64\www\python\SvgToGcode2\uploads\6898e325115d6_pre.png
+2025-08-10 21:39:21 | INFO | SVG otimizado: 73.04 KB
+2025-08-10 21:39:22 | INFO | Curvas encontradas: 4920
+2025-08-10 21:39:22 | WARNING | Simplificado para 2460 curvas
+2025-08-10 23:00:58 | INFO | Inicializando GCodeConverter
+2025-08-10 23:00:58 | INFO | Dependências validadas com sucesso
+2025-08-10 23:00:58 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68994ed9797af_pre.png
+2025-08-10 23:01:08 | INFO | Inicializando GCodeConverter
+2025-08-10 23:01:08 | INFO | Dependências validadas com sucesso
+2025-08-10 23:01:08 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68994ee3b2d12_pre.png
+2025-08-10 23:01:21 | INFO | Inicializando GCodeConverter
+2025-08-10 23:01:21 | INFO | Dependências validadas com sucesso
+2025-08-10 23:01:22 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68994ef13c80c_pre.png
+2025-08-11 19:51:38 | INFO | SVG otimizado: 58.69 KB
+2025-08-11 19:51:38 | INFO | Curvas encontradas: 5800
+2025-08-11 19:51:38 | WARNING | Simplificado para 2900 curvas
+2025-08-11 19:51:39 | INFO | Conversão concluída em 1.92s
+2025-08-12 22:43:12 | INFO | SVG otimizado: 234.27 KB
+2025-08-12 22:43:15 | INFO | Curvas encontradas: 16230
+2025-08-12 22:43:15 | WARNING | Simplificado para 3246 curvas
+2025-08-12 22:43:16 | INFO | Conversão concluída em 3.90s
+2025-08-12 22:55:28 | INFO | SVG otimizado: 234.27 KB
+2025-08-12 22:55:31 | INFO | Curvas encontradas: 16230
+2025-08-12 22:55:31 | WARNING | Simplificado para 3246 curvas
+2025-08-12 22:55:32 | INFO | Conversão concluída em 3.58s
+2025-08-14 21:37:01 | INFO | SVG otimizado: 224.31 KB
+2025-08-14 21:37:02 | INFO | Curvas encontradas: 16216
+2025-08-14 21:37:02 | WARNING | Simplificado para 3244 curvas
+2025-08-14 21:37:03 | INFO | Conversão concluída em 1.75s
+2025-09-28 11:51:15 | INFO | Inicializando GCodeConverter
+2025-09-28 11:51:15 | INFO | Dependências validadas com sucesso
+2025-09-28 11:51:15 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68d94b6135df8_pre.png
+2025-10-01 13:30:28 | INFO | Inicializando GCodeConverter
+2025-10-01 13:30:28 | INFO | Dependências validadas com sucesso
+2025-10-01 13:30:28 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68dd57237cc9b_pre.png
+2025-10-01 13:31:38 | INFO | Inicializando GCodeConverter
+2025-10-01 13:31:38 | INFO | Dependências validadas com sucesso
+2025-10-01 13:31:38 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68dd576977a6c_pre.png
+2025-10-01 13:32:19 | INFO | Inicializando GCodeConverter
+2025-10-01 13:32:19 | INFO | Dependências validadas com sucesso
+2025-10-01 13:32:19 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68dd5792c5d04_pre.png
+2025-10-01 13:52:24 | INFO | Inicializando GCodeConverter
+2025-10-01 13:52:24 | INFO | Dependências validadas com sucesso
+2025-10-01 13:52:24 | INFO | Carregando imagem: C:\wamp64\www\python\SvgToGcode2\uploads\68dd5c473749f_pre.png

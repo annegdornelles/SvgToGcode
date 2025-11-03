@@ -1,0 +1,18 @@
+Pré-processamento:
+^"C:^\Users^\gabri^\AppData^\Local^\Programs^\Python^\Python313^\python.exe^" ^"C:^\wamp64^\www^\python^\SvgToGcode2^\preprocess.py^" ^"C:^\wamp64^\www^\python^\SvgToGcode2^\uploads^\6893dceacdd98.png^" ^"C:^\wamp64^\www^\python^\SvgToGcode2^\pngs^\6893dceacdd98.png^" 1200 65
+
+Saída:
+C:\wamp64\www\python\SvgToGcode2\pngs\6893dceacdd98.png
+
+Conversão:
+^"C:^\Users^\gabri^\AppData^\Local^\Programs^\Python^\Python313^\python.exe^" ^"C:^\wamp64^\www^\python^\SvgToGcode2^\pngToGcode.py^" ^"C:^\wamp64^\www^\python^\SvgToGcode2^\pngs^\6893dceacdd98.png^" ^"C:^\wamp64^\www^\python^\SvgToGcode2^\gcode^\6893dceacdd98.gcode^" 65 True 2^>^&1
+
+Saída:
+
+
+Status: Falha
+
+Arquivos gerados:
+- Original: C:\wamp64\www\python\SvgToGcode2\uploads\6893dceacdd98.png
+- PNG: C:\wamp64\www\python\SvgToGcode2\pngs\6893dceacdd98.png
+- G-code: C:\wamp64\www\python\SvgToGcode2\gcode\6893dceacdd98.gcode

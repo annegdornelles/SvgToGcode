@@ -1,0 +1,55257 @@
+G90 ; coordenadas absolutas
+G1 F3000
+G1 Z5 ; caneta levantada
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X0.000 Y640.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X0.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y629.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y629.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y639.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y638.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y615.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y616.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y614.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y597.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y592.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y607.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X610.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X610.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X604.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X612.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X610.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X224.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X578.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y491.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y491.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y503.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y503.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y499.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y506.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y500.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y514.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X55.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X630.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y466.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X338.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y462.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X88.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y447.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y457.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X553.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X555.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X556.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X491.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X51.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X95.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X538.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X538.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X630.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X73.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X71.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X69.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X69.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X148.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X111.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X536.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X574.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X574.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X538.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X158.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X110.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X95.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X30.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X30.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X88.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X544.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X555.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X555.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X567.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X590.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X554.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X553.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X630.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X627.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X626.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X609.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X609.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X619.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X615.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X607.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X30.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X30.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X593.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X593.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X596.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X595.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X593.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X592.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X593.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X590.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X590.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X554.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X84.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X56.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X574.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X640.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X640.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X180.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X148.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X640.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y44.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y55.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y45.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y44.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y45.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y46.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y13.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y14.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y30.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y30.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y39.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y33.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y10.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y10.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y25.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y10.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y10.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y23.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y19.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y0.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y10.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y0.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y0.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y640.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y640.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y629.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y629.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y625.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y617.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y616.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y639.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y638.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y597.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y605.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X608.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X619.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X625.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X623.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X620.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X620.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X612.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X617.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X591.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X592.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X597.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X597.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X595.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X591.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X591.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X0.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X30.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X53.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y517.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y496.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y503.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y504.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y497.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X68.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y462.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X338.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X630.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X640.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X527.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X67.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y420.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X558.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X612.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X613.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X606.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X606.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X605.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X604.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X571.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X527.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X564.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X553.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X551.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X75.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X95.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X50.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X50.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X164.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X630.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X640.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X76.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X77.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y290.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X544.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X544.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X91.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X157.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X158.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X357.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X578.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y276.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X561.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X630.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X30.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y150.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y126.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y119.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y126.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X620.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X620.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X611.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X617.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X616.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X606.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X609.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X608.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X622.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X622.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X610.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X611.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y83.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X592.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X591.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X595.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X596.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X595.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y49.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y51.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y51.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y41.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X630.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y54.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y54.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y56.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y66.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y67.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y53.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y53.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y42.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y41.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y22.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y23.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X51.000 Y24.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y38.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y37.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y24.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y31.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y10.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y14.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y13.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y35.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y24.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y18.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y19.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y19.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y0.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y10.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y9.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y10.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y10.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y0.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y634.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y635.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X357.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y621.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y607.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y607.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y501.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y500.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y458.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y449.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X157.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X338.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X544.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X107.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X536.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X553.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X553.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y126.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y77.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y67.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y42.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y43.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y34.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y15.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y15.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y624.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y505.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y506.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X180.000 Y499.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y461.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X554.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X556.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X556.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y420.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y417.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X67.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X527.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X490.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X561.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X59.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X548.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X338.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X81.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X566.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y133.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X515.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y65.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y65.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y62.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y54.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y53.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y39.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y38.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y32.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y6.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y6.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y624.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y607.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y600.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X624.000 Y592.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X624.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y588.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X620.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X620.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X625.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X626.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X616.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X616.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X614.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X614.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X593.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X587.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X587.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X595.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y503.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y505.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X87.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X91.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X68.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X68.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X357.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X157.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X73.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y277.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X527.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X576.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X602.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X606.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X609.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X602.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X604.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X67.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X82.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X82.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y73.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y61.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y62.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y59.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y58.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y53.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y53.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y48.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y49.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y33.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y30.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y19.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y19.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y18.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y15.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y15.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y628.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y628.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y622.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y614.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y600.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y597.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X148.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y514.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X98.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y449.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X83.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y420.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y416.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X63.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X553.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X553.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X590.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X590.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X71.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X71.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X72.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X568.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X59.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X78.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X77.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X76.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X87.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X555.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X560.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y83.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y72.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y72.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y65.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y65.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y62.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y48.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y48.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y42.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y41.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X224.000 Y31.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y32.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y289.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X553.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X556.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X555.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y449.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y462.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y499.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y133.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y58.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y58.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y55.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y57.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X527.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X539.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X77.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X83.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X164.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X88.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y302.000
+G1 Z5 ; caneta levantadaG90 ; coordenadas absolutas
+G1 F3000
+G1 Z5 ; caneta levantada
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y275.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y290.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y119.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y67.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y44.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y32.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y31.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y35.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y45.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y46.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y57.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y57.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y72.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y58.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y58.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y48.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y47.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y35.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y20.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y4.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y4.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y21.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y22.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y35.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y47.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y48.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y58.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y58.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y53.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y53.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y42.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y41.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y31.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y31.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y36.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y37.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y55.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y55.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y72.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X560.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X574.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X582.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X574.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X573.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X551.000 Y457.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y615.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y616.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y625.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y625.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y621.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y620.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y629.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y629.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y637.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y636.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y622.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y614.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X223.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y597.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X107.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X93.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X84.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X73.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X55.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X67.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X67.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X76.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X51.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X72.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X81.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X71.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X78.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X89.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X89.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y417.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X164.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y588.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y503.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y501.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X491.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y497.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y496.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X223.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y449.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y497.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y289.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X157.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y588.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y501.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X180.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y589.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y617.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y618.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X558.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X564.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X556.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X555.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X515.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X544.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y271.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y462.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y461.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X223.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y506.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y423.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X96.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X58.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y632.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y631.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y623.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y597.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y499.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y499.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X536.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y466.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y458.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y449.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X544.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X515.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X77.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X76.000 Y416.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X564.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X565.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X538.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X587.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y290.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X582.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X560.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y119.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y62.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y51.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y51.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y40.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y23.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y5.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y4.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y628.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y623.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y623.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y589.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y588.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X515.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y503.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y499.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X490.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X491.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y423.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X74.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X74.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X587.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X52.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y277.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X84.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X573.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X574.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X75.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X78.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y66.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y65.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y61.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y61.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y56.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y46.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y47.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y39.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y39.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y31.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y32.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y625.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y621.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y621.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y607.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y607.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y588.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X125.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y497.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y461.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y457.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y447.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y420.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X72.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X72.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X561.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X561.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X93.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X72.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X571.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X71.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X88.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X63.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X82.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X82.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X357.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y150.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X111.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y56.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y50.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y49.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y41.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y34.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y620.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y620.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y605.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y600.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y504.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y503.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y462.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y449.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X95.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y416.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X536.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X590.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X590.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X567.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X567.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X587.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X587.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y289.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y286.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X56.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X157.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X576.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X573.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X572.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X72.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X72.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X320.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X320.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y119.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y65.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y59.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y50.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y51.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y42.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y42.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y30.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y30.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y8.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y8.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y605.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X601.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X601.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X601.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X576.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X58.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X59.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X56.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X543.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y417.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X566.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X557.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X557.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X619.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X619.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X617.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X617.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X627.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X627.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X614.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X614.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X612.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X611.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X613.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X616.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X515.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X595.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X595.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X599.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X587.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X180.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X55.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y77.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y73.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y45.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y33.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y24.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y22.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y17.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y16.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y15.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y636.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y636.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y506.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y505.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y492.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y462.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y449.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X538.000 Y449.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X88.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y423.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X77.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X93.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X91.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X587.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X50.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X51.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X565.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X565.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y276.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X84.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X84.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X125.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X87.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X578.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X95.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y176.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X82.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X82.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y150.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y73.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y67.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y56.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y47.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X320.000 Y47.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y35.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y3.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y3.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y621.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y622.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y614.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y607.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X309.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y592.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X538.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X538.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y517.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y501.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y501.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y496.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y461.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y458.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y457.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y457.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X551.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y449.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X110.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X81.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X98.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X544.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X564.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X565.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X91.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y373.000
+G1 Z5 ; caneta levantadaG90 ; coordenadas absolutas
+G1 F3000
+G1 Z5 ; caneta levantada
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X107.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X56.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X55.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X543.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y271.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X84.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X96.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X557.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X557.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X180.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y176.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X74.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X74.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y67.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y63.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y57.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y49.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y50.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y41.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y41.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y36.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y35.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y19.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y19.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y635.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y634.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y605.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X164.000 Y600.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y592.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X223.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X611.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X610.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X617.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X607.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X611.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X611.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X601.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y505.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y505.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y501.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y500.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X56.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y461.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X89.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X564.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X72.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X72.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X568.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X53.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y275.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X548.000 Y276.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X621.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X626.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X625.000 Y271.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X622.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X625.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X626.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X621.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X616.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X609.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X609.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X490.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X608.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X612.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X617.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X606.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X606.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X615.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X610.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X610.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X593.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X592.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X587.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X548.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X572.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X573.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X125.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y73.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y72.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y40.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y39.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y19.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y18.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y16.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y16.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y635.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y634.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y625.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y621.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y620.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y596.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X223.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y514.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y506.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y501.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y498.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y497.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y466.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y458.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y447.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y417.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X73.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X74.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X111.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X73.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X72.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X87.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X557.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X557.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X81.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X63.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X67.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X67.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X573.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X573.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X69.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y119.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y72.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y67.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y51.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y52.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y46.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y46.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y43.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y35.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y34.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y32.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y31.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y628.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y628.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y625.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y589.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y582.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y517.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y504.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y504.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y499.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y499.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y457.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X224.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X98.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X527.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X224.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X69.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X538.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X51.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X50.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X582.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X111.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X63.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X544.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X560.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y126.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y62.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y59.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y46.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y47.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y37.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y38.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y32.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y33.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X619.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X606.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X608.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X610.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X609.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X602.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y492.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y461.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X84.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X614.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X614.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X605.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X616.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X617.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X608.000 Y423.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X609.000 Y420.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X610.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X609.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X609.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X604.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X567.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X490.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y277.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X551.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X604.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X605.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X558.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X620.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X620.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X617.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X622.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X157.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X626.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X625.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X615.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X607.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X607.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X610.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X610.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y77.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y58.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y58.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y31.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y31.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y25.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y18.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y11.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y11.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X158.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X491.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y504.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y504.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X575.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X491.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X50.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X50.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X110.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X164.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X570.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X566.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y277.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y271.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X490.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X98.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y119.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y50.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y51.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y45.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y45.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y36.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y36.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y7.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y7.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y624.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y625.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y624.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y623.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y615.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y605.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y604.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y604.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y596.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y589.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y589.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X319.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y505.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y499.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y499.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X539.000 Y499.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y497.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y491.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X551.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X417.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y423.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y420.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y416.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y416.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X571.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X572.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X491.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X571.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X565.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X96.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X74.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X74.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X171.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X59.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X58.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X59.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X69.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X69.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X157.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X157.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X157.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y322.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X158.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X557.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X557.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X78.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X124.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X71.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X53.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y286.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y276.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y275.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y271.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X148.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X89.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X89.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X223.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X87.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y198.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X171.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X98.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X75.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X123.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X561.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X560.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X539.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X481.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X436.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y150.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X224.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y126.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X481.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y83.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y76.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y72.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y72.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y68.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y66.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y63.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y60.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y55.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y55.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y48.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y49.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y45.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y39.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y39.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y34.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y34.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y13.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y13.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y632.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y633.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y621.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y622.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y615.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y615.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y607.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y596.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y596.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y582.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X334.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y536.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y504.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y504.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y503.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y500.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y497.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X538.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X205.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X233.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X538.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X553.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X553.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X96.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y417.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X276.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X582.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X573.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X573.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X492.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X449.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X557.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X514.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X55.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X566.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X568.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X544.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X543.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X75.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X75.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y291.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y289.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y290.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y286.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X578.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X110.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y218.000
+G1 Z5 ; caneta levantadaG90 ; coordenadas absolutas
+G1 F3000
+G1 Z5 ; caneta levantada
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y213.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X144.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X341.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X441.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y176.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y176.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y150.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y126.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y125.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X334.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y72.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y72.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y66.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y60.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y52.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y52.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y45.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y38.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y39.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y34.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y33.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X195.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y30.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y10.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y10.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y624.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y606.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y596.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X101.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y514.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X438.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y511.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y503.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y503.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y501.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y496.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y491.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y491.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y466.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X180.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X179.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y436.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X84.000 Y429.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X508.000 Y421.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y418.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y416.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X73.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X73.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X573.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X573.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X407.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y376.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X490.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X69.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X69.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X93.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X539.000 Y336.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y332.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X590.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X84.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X84.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X570.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y289.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y285.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X55.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y276.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X93.000 Y276.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y266.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X83.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X509.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y246.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X224.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X195.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X429.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y158.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y133.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X314.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X160.000 Y86.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y86.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y72.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y63.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y63.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y55.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y46.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y45.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y39.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y38.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y30.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y30.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y628.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y617.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y618.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y607.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X164.000 Y596.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X164.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X623.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X624.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X626.000 Y589.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X627.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X628.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X628.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X616.000 Y585.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X625.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X624.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X616.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y568.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y567.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y562.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X592.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X593.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X583.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X583.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X585.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X584.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X475.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X475.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y520.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y501.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y497.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y492.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X61.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X338.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X548.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y433.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X110.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X110.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X99.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X52.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y384.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X579.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y362.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y341.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X182.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X90.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X71.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X71.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y299.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X53.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y264.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X278.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y250.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X82.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X82.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X601.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X601.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X319.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y230.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y218.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X63.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y172.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X63.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y155.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X476.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X169.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y131.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X126.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X320.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y103.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X158.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X152.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y82.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y80.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y78.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y72.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X426.000 Y61.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y61.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y60.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y60.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y57.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y49.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y49.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y44.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y25.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y25.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y22.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y20.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y19.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y17.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y15.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y17.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X318.000 Y3.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y2.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y619.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y620.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y592.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X255.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X121.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X539.000 Y519.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X225.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y509.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y506.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y501.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X548.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y455.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X553.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X553.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X223.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y450.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X148.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X94.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X94.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X571.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X571.000 Y408.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y406.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y403.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y403.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y372.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X581.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X158.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y322.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X555.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X70.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X589.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y307.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X515.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X74.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X74.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X569.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X569.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y289.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y289.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X544.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X545.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y277.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X582.000 Y276.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X579.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X111.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X558.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X557.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y245.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X560.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X561.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y233.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X558.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y225.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y224.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y219.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X62.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X62.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y192.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X277.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X80.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y176.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X82.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X81.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y150.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X532.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X453.000 Y143.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y142.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y129.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y124.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X387.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y111.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X346.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X407.000 Y77.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y77.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y66.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y58.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y44.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y32.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X370.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y613.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X415.000 Y607.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X613.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X604.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X144.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X603.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X603.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y564.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y554.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X470.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X400.000 Y543.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X580.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X293.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y531.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y517.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X376.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y492.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X107.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X107.000 Y472.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X180.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X554.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X555.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y443.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X550.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X103.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X104.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y408.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y409.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X154.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X425.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X429.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y389.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X121.000 Y389.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X567.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X286.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X285.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X578.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y364.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X495.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X495.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X314.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X148.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y304.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X338.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X156.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X156.000 Y287.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X313.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X313.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X620.000 Y272.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X624.000 Y272.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X621.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X611.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X611.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y263.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X555.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X618.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X611.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X611.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X249.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X598.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X593.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X593.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X593.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X591.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X282.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X596.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X595.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y223.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X134.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X83.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X84.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y188.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X58.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X58.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X357.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X131.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X184.000 Y146.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X192.000 Y133.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X510.000 Y112.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X291.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y99.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X125.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y92.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y92.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y87.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y87.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X184.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y22.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y20.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y18.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y630.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y630.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y624.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y624.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y620.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y620.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y613.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y607.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y607.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y602.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y602.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y600.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y596.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y593.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y589.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y579.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X221.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X492.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X517.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X120.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X232.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X231.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X325.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y527.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y527.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X273.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y511.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y504.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y503.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y502.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y495.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y495.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y491.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y487.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X123.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y479.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y467.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X87.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X88.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X220.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y442.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y442.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X102.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X103.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X266.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y416.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X101.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X102.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y400.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X174.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X564.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X564.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X246.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X528.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X529.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X547.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X67.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y364.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y360.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y358.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X367.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X367.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X207.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y339.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y327.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X91.000 Y326.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X590.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X590.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X82.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X497.000 Y312.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y312.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X590.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X589.000 Y301.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X159.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y287.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y286.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X584.000 Y282.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X585.000 Y282.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y275.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X136.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y269.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X373.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X530.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X124.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X125.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X542.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X543.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X562.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y237.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X91.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X92.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X329.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y217.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X482.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y207.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X160.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X230.000 Y201.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y202.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y198.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X95.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X95.000 Y194.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X466.000 Y184.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X466.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y183.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X413.000 Y179.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X325.000 Y176.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y176.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X426.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X402.000 Y162.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X402.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y157.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y146.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y128.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y128.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X185.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y111.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X483.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y93.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y93.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y70.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X449.000 Y70.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y61.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y61.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y50.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y50.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X350.000 Y44.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X349.000 Y44.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y36.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y36.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y627.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y627.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y622.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y623.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y616.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y617.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X374.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y608.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y608.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y601.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y598.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y595.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X454.000 Y579.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y576.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X225.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y571.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X333.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X333.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X221.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X114.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X223.000 Y542.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X224.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X473.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X506.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y524.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X287.000 Y517.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y515.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y515.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y512.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X227.000 Y512.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y504.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X372.000 Y504.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y499.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y500.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y492.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y492.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X432.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y473.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X456.000 Y472.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y467.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X551.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X552.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y450.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X541.000 Y447.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X327.000 Y443.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y439.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X548.000 Y439.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X203.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y430.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X470.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X567.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X566.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X548.000 Y411.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y406.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y405.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y401.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y398.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X151.000 Y391.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X503.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X502.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X494.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X292.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y370.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X497.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y367.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X192.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y359.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X109.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X109.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y354.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y354.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X97.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X112.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X546.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X547.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y343.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X464.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X464.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X174.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y336.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X435.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X335.000 Y332.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X181.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X501.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X461.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X461.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X158.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X159.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X108.000 Y305.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X108.000 Y306.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y299.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X588.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X587.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y285.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X398.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y275.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X327.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X249.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X84.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X210.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X430.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X430.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y243.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X292.000 Y242.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y242.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X90.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X89.000 Y238.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X549.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X310.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X420.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X420.000 Y230.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X77.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X76.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y223.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y219.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y215.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y215.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y210.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X208.000 Y208.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y206.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y202.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X271.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X187.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X473.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y191.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y181.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X70.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X69.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y164.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y160.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y160.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X105.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X106.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X294.000 Y153.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y153.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X176.000 Y149.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y148.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y147.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X347.000 Y145.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X337.000 Y143.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y138.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y138.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y135.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y129.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y126.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y117.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y115.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y109.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y104.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X203.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y99.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y96.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y91.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y78.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y79.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y63.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X213.000 Y57.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y57.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y56.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y56.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y52.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y51.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y32.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y33.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X427.000 Y28.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X427.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y628.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y628.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y625.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y612.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y612.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X329.000 Y605.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X209.000 Y601.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X247.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X247.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X624.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X624.000 Y593.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X625.000 Y592.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X626.000 Y592.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X617.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X617.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X615.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X615.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X626.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X627.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X622.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X623.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X598.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X414.000 Y574.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y569.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X284.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X283.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X591.000 Y564.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X591.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y559.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y559.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y557.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y556.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X587.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X588.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X578.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X578.000 Y552.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X486.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y548.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X377.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y538.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X193.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X341.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X340.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y530.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X506.000 Y529.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X257.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y518.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y518.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X98.000 Y510.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X99.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y507.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y501.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y500.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y498.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y496.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X59.000 Y496.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X217.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X216.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y487.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X438.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X437.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X67.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X67.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X63.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y480.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y471.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X500.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y468.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y468.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y464.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X331.000 Y456.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X330.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X540.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X539.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y453.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X100.000 Y447.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X100.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X488.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X342.000 Y441.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y438.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y438.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X115.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y435.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X162.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X514.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X136.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X302.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X301.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y424.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y423.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y419.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y413.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X69.000 Y410.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X68.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y401.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X431.000 Y400.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y397.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y397.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y395.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X576.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y385.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X517.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X401.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X401.000 Y382.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X114.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X110.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X111.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y375.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y375.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X104.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X431.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X432.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y365.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X89.000 Y365.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X552.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X551.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y362.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X231.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X444.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X494.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y351.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X562.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y346.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X88.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X89.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X503.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X469.000 Y340.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X52.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X51.000 Y335.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X257.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X258.000 Y331.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X479.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X479.000 Y329.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X493.000 Y326.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X493.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y323.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X468.000 Y318.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y319.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y315.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X397.000 Y315.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X269.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X146.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X126.000 Y303.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X297.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y300.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X137.000 Y297.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X567.000 Y296.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X567.000 Y295.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y293.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X188.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X399.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y279.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y277.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y274.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y275.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X263.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y267.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X554.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X554.000 Y262.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y257.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y257.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X279.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X428.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X428.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X448.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X605.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X604.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X444.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X549.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X550.000 Y241.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X128.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X128.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X60.000 Y237.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X602.000 Y234.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X602.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X419.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X418.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y222.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y222.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X582.000 Y218.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X582.000 Y217.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y212.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X58.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X58.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X234.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X521.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y197.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y195.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y195.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y189.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y186.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X309.000 Y186.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X499.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X499.000 Y184.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X67.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X67.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y178.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y177.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y177.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X188.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y173.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y169.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X83.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X82.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X510.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X509.000 Y161.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y156.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X476.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y151.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X167.000 Y147.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y148.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X371.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X416.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y141.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y137.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y137.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X179.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y133.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y134.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y130.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X315.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X315.000 Y123.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X253.000 Y118.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y118.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X303.000 Y112.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X303.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X445.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X445.000 Y107.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X129.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X129.000 Y104.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X306.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X127.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X127.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X234.000 Y98.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y95.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X116.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y82.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X405.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X405.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X106.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X105.000 Y75.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X113.000 Y73.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y74.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X265.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y66.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y59.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X385.000 Y50.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X386.000 Y50.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y39.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y39.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X408.000 Y33.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y32.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y29.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X528.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y23.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y23.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X529.000 Y21.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X530.000 Y21.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y18.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y19.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y15.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y16.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y626.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X355.000 Y626.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X340.000 Y623.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y623.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X168.000 Y614.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X167.000 Y614.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y611.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y610.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X366.000 Y606.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y605.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X181.000 Y600.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y600.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X301.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y594.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X302.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X619.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X619.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X623.000 Y590.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X622.000 Y590.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X621.000 Y588.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X622.000 Y588.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X620.000 Y587.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X618.000 Y587.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y584.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X305.000 Y585.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X262.000 Y583.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y581.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X360.000 Y581.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X230.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X293.000 Y580.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X291.000 Y580.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X222.000 Y577.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y578.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y575.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X599.000 Y576.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X599.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X480.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X480.000 Y575.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y573.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X218.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X343.000 Y572.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X342.000 Y572.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y570.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X300.000 Y569.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X289.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X595.000 Y566.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X594.000 Y566.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y563.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X306.000 Y563.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X417.000 Y560.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y560.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X594.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X595.000 Y558.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y558.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y555.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X310.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X353.000 Y553.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X352.000 Y553.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X238.000 Y551.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X258.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X266.000 Y550.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X312.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X312.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y547.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y545.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X220.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X458.000 Y545.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X241.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X241.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y541.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y541.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y539.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X133.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X450.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X410.000 Y538.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X410.000 Y539.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y537.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X446.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y535.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X498.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X498.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X500.000 Y533.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X260.000 Y532.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y532.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X378.000 Y530.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y531.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y528.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X132.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X496.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X496.000 Y524.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X389.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X389.000 Y523.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y522.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X387.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y520.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X365.000 Y519.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y514.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y509.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y510.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X453.000 Y505.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X454.000 Y505.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y493.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y493.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y489.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y489.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X140.000 Y485.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y484.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X61.000 Y483.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y482.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X375.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y481.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y477.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X270.000 Y478.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X246.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y476.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X360.000 Y475.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y473.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X193.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X447.000 Y469.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X446.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X96.000 Y465.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X97.000 Y465.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y464.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y460.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y459.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X355.000 Y458.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y458.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y455.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y456.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X534.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X534.000 Y453.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X412.000 Y451.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y451.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X539.000 Y448.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X540.000 Y448.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X332.000 Y446.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X332.000 Y445.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y441.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y434.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X338.000 Y431.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X122.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X122.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X149.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y428.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y429.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y427.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y428.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X139.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y427.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X130.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y424.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y422.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y422.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y417.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X523.000 Y417.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y414.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X568.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X568.000 Y412.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X65.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y407.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y407.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y404.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X435.000 Y402.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y402.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X382.000 Y398.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X57.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X57.000 Y395.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X170.000 Y394.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X170.000 Y393.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y392.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X505.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X71.000 Y387.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X71.000 Y386.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X524.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X409.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y383.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X398.000 Y380.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X537.000 Y380.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y379.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y379.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X513.000 Y376.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X397.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X396.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X535.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X535.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y372.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y371.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y369.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y369.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y368.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X139.000 Y368.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X260.000 Y366.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X278.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y361.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y361.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y358.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X251.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X251.000 Y356.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y355.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y351.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X383.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y348.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X365.000 Y347.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X366.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X206.000 Y346.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X586.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X586.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X202.000 Y340.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y341.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X277.000 Y338.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X276.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y334.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X460.000 Y330.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X459.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y327.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X477.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X477.000 Y324.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X142.000 Y321.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y320.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X50.000 Y317.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X49.000 Y317.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X526.000 Y313.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X527.000 Y313.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y310.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y310.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y308.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X369.000 Y308.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y306.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X391.000 Y307.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X50.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X50.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y302.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X380.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y297.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y295.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y296.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y293.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X308.000 Y292.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X307.000 Y292.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y288.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X130.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y286.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y286.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X361.000 Y281.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X361.000 Y280.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X404.000 Y279.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y274.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y271.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X256.000 Y268.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X256.000 Y269.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X474.000 Y267.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X474.000 Y268.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y265.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y264.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X64.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X64.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X290.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X290.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X263.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X400.000 Y261.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X399.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y259.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X286.000 Y259.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y258.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y258.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X280.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X279.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X396.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y256.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y255.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X283.000 Y253.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X282.000 Y253.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X354.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y251.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y251.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X612.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X612.000 Y250.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X328.000 Y248.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X328.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X600.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X600.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X601.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X602.000 Y247.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X304.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X543.000 Y243.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y241.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X86.000 Y239.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X85.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X218.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X217.000 Y236.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y235.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X422.000 Y234.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X322.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y231.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X441.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X580.000 Y228.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X581.000 Y228.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y224.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y225.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X118.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X469.000 Y220.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X468.000 Y220.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y214.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X229.000 Y212.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X59.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X60.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X411.000 Y210.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y208.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y207.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X359.000 Y206.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X359.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X229.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X294.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X346.000 Y200.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X233.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X232.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y197.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X513.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X240.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X240.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X577.000 Y193.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X577.000 Y192.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X143.000 Y189.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X143.000 Y190.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X288.000 Y188.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X545.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X546.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X311.000 Y183.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X311.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y181.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X559.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X326.000 Y178.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X326.000 Y179.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X248.000 Y175.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X248.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X543.000 Y173.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X543.000 Y174.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X66.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X189.000 Y171.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X189.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X386.000 Y170.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y170.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X259.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X259.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X66.000 Y167.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X65.000 Y167.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y166.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X262.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y165.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X442.000 Y164.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X442.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X559.000 Y163.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y163.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X537.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X538.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X175.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X175.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X270.000 Y152.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y152.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X472.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X472.000 Y149.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y144.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X296.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X452.000 Y139.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y140.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y136.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X463.000 Y134.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y133.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X178.000 Y131.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y130.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y125.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X185.000 Y121.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X186.000 Y121.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X483.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X482.000 Y120.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X320.000 Y115.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X320.000 Y116.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y113.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y113.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X388.000 Y108.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X388.000 Y109.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X507.000 Y107.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y108.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y106.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y106.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X307.000 Y102.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X308.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y100.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y100.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y97.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X176.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X120.000 Y90.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X212.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X182.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X112.000 Y85.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X113.000 Y85.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X116.000 Y83.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X115.000 Y83.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X117.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X119.000 Y79.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X119.000 Y80.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y74.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X236.000 Y73.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y71.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y71.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X433.000 Y67.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X433.000 Y68.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X196.000 Y62.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X197.000 Y62.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y58.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X381.000 Y57.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y54.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y53.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y50.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X252.000 Y49.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y37.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X295.000 Y38.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X414.000 Y32.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X413.000 Y32.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X423.000 Y29.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X423.000 Y28.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X198.000 Y26.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X198.000 Y27.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X531.000 Y26.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X520.000 Y25.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y24.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y24.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X525.000 Y23.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y21.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y21.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X521.000 Y19.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y19.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X525.000 Y17.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X526.000 Y17.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y16.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y15.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y3.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X321.000 Y2.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X395.000 Y621.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X395.000 Y622.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X394.000 Y610.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X394.000 Y611.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X354.000 Y609.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y609.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X422.000 Y603.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y603.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X210.000 Y599.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X211.000 Y599.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X190.000 Y597.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X190.000 Y598.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X243.000 Y594.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X243.000 Y595.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X372.000 Y591.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X371.000 Y591.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X384.000 Y586.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X385.000 Y586.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X424.000 Y583.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y584.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X219.000 Y578.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X219.000 Y577.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X351.000 Y574.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X351.000 Y573.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X250.000 Y570.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X250.000 Y571.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y568.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X204.000 Y567.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X383.000 Y565.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X384.000 Y565.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X261.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X261.000 Y562.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y561.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X456.000 Y561.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X194.000 Y556.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X194.000 Y557.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y555.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y554.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X485.000 Y552.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X485.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y550.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y551.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X289.000 Y549.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y549.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y547.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y548.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X459.000 Y546.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X460.000 Y546.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X349.000 Y544.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X350.000 Y544.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X363.000 Y543.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X363.000 Y542.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X450.000 Y540.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X451.000 Y540.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y536.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X281.000 Y537.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X235.000 Y535.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X235.000 Y534.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X358.000 Y534.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X358.000 Y533.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X199.000 Y529.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X199.000 Y528.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y526.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X146.000 Y526.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X298.000 Y525.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X297.000 Y525.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y523.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X317.000 Y522.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X299.000 Y521.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X298.000 Y521.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X321.000 Y516.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X322.000 Y516.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y514.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y514.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X376.000 Y513.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X375.000 Y513.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X377.000 Y508.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X378.000 Y508.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y507.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X264.000 Y506.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X421.000 Y502.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X421.000 Y501.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y494.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X137.000 Y494.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X197.000 Y490.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X196.000 Y490.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X518.000 Y488.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X519.000 Y488.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X252.000 Y486.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X455.000 Y485.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X455.000 Y486.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y484.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y483.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y481.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y482.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X268.000 Y480.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y479.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X362.000 Y478.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X362.000 Y477.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y476.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y475.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X200.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X201.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y474.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X343.000 Y474.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X242.000 Y471.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X242.000 Y470.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X536.000 Y470.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X536.000 Y469.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X451.000 Y463.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X452.000 Y463.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X226.000 Y461.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X226.000 Y462.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y459.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y460.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X255.000 Y457.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y457.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X352.000 Y454.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X353.000 Y454.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X227.000 Y452.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y452.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X147.000 Y445.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X147.000 Y446.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X215.000 Y444.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X214.000 Y444.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X211.000 Y440.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X212.000 Y440.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X208.000 Y437.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X209.000 Y437.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X339.000 Y435.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X339.000 Y436.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X245.000 Y433.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X245.000 Y434.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y432.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X238.000 Y432.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X504.000 Y430.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y431.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y426.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X370.000 Y426.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X273.000 Y425.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X272.000 Y425.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y421.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X177.000 Y420.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y419.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y418.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X425.000 Y415.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X424.000 Y415.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y413.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y414.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X348.000 Y412.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y411.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X434.000 Y409.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X434.000 Y410.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y405.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X487.000 Y404.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X381.000 Y399.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X382.000 Y399.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X140.000 Y396.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X141.000 Y396.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X155.000 Y393.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y394.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X166.000 Y391.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X166.000 Y392.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y390.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X162.000 Y390.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X523.000 Y388.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X524.000 Y388.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X145.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X145.000 Y387.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X516.000 Y386.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X516.000 Y385.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X533.000 Y383.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X533.000 Y384.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X439.000 Y382.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X439.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X285.000 Y381.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X284.000 Y381.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X347.000 Y378.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X348.000 Y378.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X531.000 Y377.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X532.000 Y377.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X204.000 Y374.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X205.000 Y374.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y373.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X148.000 Y373.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X379.000 Y371.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y370.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X125.000 Y366.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X125.000 Y367.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y363.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X202.000 Y363.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X83.000 Y359.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X83.000 Y360.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y357.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X488.000 Y357.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y356.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y355.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X236.000 Y353.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y353.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y352.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X520.000 Y352.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X269.000 Y350.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X268.000 Y350.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X409.000 Y349.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X408.000 Y349.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X406.000 Y348.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X406.000 Y347.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X55.000 Y345.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X56.000 Y345.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X177.000 Y344.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X178.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X368.000 Y343.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y344.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X207.000 Y342.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X206.000 Y342.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X53.000 Y339.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X53.000 Y338.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X391.000 Y337.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y337.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X165.000 Y335.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X165.000 Y334.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y333.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y333.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X267.000 Y331.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X267.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y329.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X462.000 Y330.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y328.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y328.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X149.000 Y325.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y325.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X163.000 Y324.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X163.000 Y323.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X244.000 Y320.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X244.000 Y321.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X489.000 Y319.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X489.000 Y318.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X462.000 Y316.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X463.000 Y316.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X169.000 Y314.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X168.000 Y314.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y311.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y311.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X491.000 Y309.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X490.000 Y309.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X78.000 Y304.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X78.000 Y305.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X563.000 Y303.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X563.000 Y302.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y300.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y301.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y298.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X253.000 Y298.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X369.000 Y294.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X368.000 Y294.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X54.000 Y290.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X54.000 Y291.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X484.000 Y289.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X484.000 Y288.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X154.000 Y284.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X155.000 Y284.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X487.000 Y283.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X486.000 Y283.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y280.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y281.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y278.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X153.000 Y277.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X153.000 Y278.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X151.000 Y273.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X152.000 Y273.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X505.000 Y270.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X504.000 Y270.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X135.000 Y266.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X135.000 Y265.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X576.000 Y263.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X457.000 Y262.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y261.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X305.000 Y260.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X304.000 Y260.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X512.000 Y256.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X512.000 Y255.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X576.000 Y254.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X575.000 Y254.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X557.000 Y252.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X558.000 Y252.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X81.000 Y249.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X80.000 Y249.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X274.000 Y247.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X274.000 Y248.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X150.000 Y245.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X150.000 Y246.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X541.000 Y244.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X542.000 Y244.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X519.000 Y240.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X518.000 Y240.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X443.000 Y238.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X443.000 Y239.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y236.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y235.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X138.000 Y232.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X138.000 Y233.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X183.000 Y231.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X183.000 Y232.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X201.000 Y229.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X200.000 Y229.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X418.000 Y227.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X419.000 Y227.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X223.000 Y226.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X222.000 Y226.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X76.000 Y221.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X77.000 Y221.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X141.000 Y216.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X142.000 Y216.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X228.000 Y214.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X228.000 Y213.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X92.000 Y211.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X93.000 Y211.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X264.000 Y209.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X265.000 Y209.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X133.000 Y205.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X134.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X191.000 Y204.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X191.000 Y205.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X364.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X364.000 Y204.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X300.000 Y203.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X299.000 Y203.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X345.000 Y200.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X345.000 Y201.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X85.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X86.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X448.000 Y199.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X447.000 Y199.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X118.000 Y196.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X117.000 Y196.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X522.000 Y194.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X522.000 Y193.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X511.000 Y190.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X511.000 Y191.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X287.000 Y187.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X288.000 Y187.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X131.000 Y185.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X132.000 Y185.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X415.000 Y182.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X416.000 Y182.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X508.000 Y180.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X507.000 Y180.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y174.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X393.000 Y175.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y172.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y171.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X172.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X172.000 Y169.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X380.000 Y168.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X379.000 Y168.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X79.000 Y165.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X79.000 Y166.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X465.000 Y161.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X465.000 Y162.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X373.000 Y159.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X374.000 Y159.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X478.000 Y157.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X478.000 Y158.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X467.000 Y156.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X467.000 Y155.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X502.000 Y154.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X501.000 Y154.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X344.000 Y150.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X344.000 Y151.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X392.000 Y145.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y144.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X471.000 Y141.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X471.000 Y142.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y140.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X356.000 Y139.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X390.000 Y135.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X390.000 Y136.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X330.000 Y132.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X331.000 Y132.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X295.000 Y127.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X296.000 Y127.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X316.000 Y123.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X316.000 Y124.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X324.000 Y122.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X323.000 Y122.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X254.000 Y120.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X254.000 Y119.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X440.000 Y116.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X440.000 Y117.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X393.000 Y114.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X392.000 Y114.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X335.000 Y110.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X336.000 Y110.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X411.000 Y105.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X412.000 Y105.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X173.000 Y103.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X173.000 Y102.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X317.000 Y101.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X318.000 Y101.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y98.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X403.000 Y97.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X237.000 Y96.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X237.000 Y95.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X437.000 Y94.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X436.000 Y94.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X161.000 Y90.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X161.000 Y91.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X214.000 Y89.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X213.000 Y89.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X458.000 Y88.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X457.000 Y88.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X323.000 Y84.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X324.000 Y84.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X186.000 Y81.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X187.000 Y81.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X239.000 Y75.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X239.000 Y76.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X216.000 Y69.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X215.000 Y69.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X272.000 Y64.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X271.000 Y64.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X275.000 Y60.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X275.000 Y59.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X281.000 Y55.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X280.000 Y55.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X356.000 Y51.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X357.000 Y51.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X403.000 Y37.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X404.000 Y37.000
+G4 P100
+G1 Z5 ; caneta levantada
+G1 F3000
+G1 X336.000 Y27.000
+G1 F1000
+G1 Z0 ; caneta abaixa
+G1 X337.000 Y27.000
+G1 Z5 ; caneta levantada
