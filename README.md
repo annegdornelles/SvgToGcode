@@ -1,4 +1,6 @@
 🎯 Conversor de PNG para G-code com Arduino (Plotter)
+
+
 📌 Visão geral do projeto
 
 - Este projeto tem como objetivo o desenvolvimento de um sistema completo de conversão de imagens PNG em arquivos G-code, voltado principalmente para plotters e máquinas controladas por Arduino para fins acadêmicos.
@@ -175,4 +177,4 @@ Utilizando softwares como:
 📊 Contexto acadêmico
 - Esse projeto foi desenvolvido com o incentivo do Nightwind, do CTISM/UFSM
 
-🔔 * Este projeto foi desenvolvido a partir de um fork do repositório SvgToGcode, do usuário PadLex, que serviu como base para a conversão de arquivos SVG em G-code. A partir dessa base, foram realizadas adaptações e extensões para permitir a conversão de imagens PNG, além de otimizações no fluxo de processamento.*
+🔔 *Este projeto foi desenvolvido a partir de um fork do repositório SvgToGcode, do usuário PadLex, que serviu como base para a conversão de arquivos SVG em G-code. A partir dessa base, foram realizadas adaptações e extensões para permitir a conversão de imagens PNG, além de otimizações no fluxo de processamento.*
